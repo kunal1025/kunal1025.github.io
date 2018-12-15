@@ -15,7 +15,7 @@ html, body {
 }
 
 #home {
-    background: url(img/mountains.jpeg) no-repeat center center fixed;
+    background: url(https://kunalpatel.me/img/mountains.jpeg) no-repeat center center fixed;
     display: table;
     height: 100%;
     position: relative;
