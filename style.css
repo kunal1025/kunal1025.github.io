@@ -16,6 +16,8 @@ html, body {
 
 #home {
     background: url(./img/mountains.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
     min-height: 100%;
     display: table;
     height: 100%;
